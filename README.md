@@ -5,7 +5,7 @@ sxwm and other application dotfile
 * sxbar
 * st
 * xcompmgr
-* st alpha patch(on ther dotfile folder)
+* st alpha patch(on the dotfile folder)
 # screen shot:
 <div align="center">
  <img src="screenshot1.png">
